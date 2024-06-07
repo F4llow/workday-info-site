@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Project Launch Page
-permalink: /
 ---
 
 # Project Launch Page
