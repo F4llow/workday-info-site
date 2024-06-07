@@ -12,8 +12,8 @@ Hey team! Nathaniel Callabresi is working on a project launch page for us, and I
 
 - [Link to Smartsheet](https://www.wm.edu)
 - [Link to Workday Community](https://www.wm.edu)
-- [Link to Training Repository](https://www.wm.edu) - I'll work on the link, as in, make it exist.
-- [Direct link to the Project Teams Team](https://www.wm.edu) - Everything project related is being directed there.
+- [Link to Training Repository](https://www.wm.edu)
+- [Direct link to the Project Teams Team](https://www.wm.edu)
 - [Maybe a link to the Public-facing Project Website?](https://www.wm.edu)
 - [Linkage to the Job Aid for Community Access or Posted Instructions](https://www.wm.edu)
 
