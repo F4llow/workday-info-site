@@ -10,11 +10,11 @@ Hey team! Nathaniel Callabresi is working on a project launch page for us, and I
 
 ## Resources
 
-- [Link to Smartsheet](https://www.wm.edu)
-- [Link to Workday Community](https://www.wm.edu)
-- [Link to Training Repository](https://www.wm.edu)
-- [Direct link to the Project Teams Team](https://www.wm.edu)
-- [Maybe a link to the Public-facing Project Website?](https://www.wm.edu)
-- [Linkage to the Job Aid for Community Access or Posted Instructions](https://www.wm.edu)
+- [Link to Smartsheet](https://app.smartsheet.com)
+- [Link to Workday Community](https://community.workday.com)
+- [Link to Training Repository (WIP)](https://www.wm.edu)
+- [Link to the Project Teams Team (WIP)](https://www.wm.edu)
+- [Public-facing Project Website](https://www.wm.edu/sites/workday/)
+- [Linkage to the Job Aid for Community Access or Posted Instructions (WIP)](https://www.wm.edu)
 
 Please let me know what else should be included or any other ideas you have!
