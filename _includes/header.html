@@ -4,18 +4,20 @@
     <style>
       /* Universal link styling */
       a {
-          color: #866f45 !important; /* William & Mary Gold, force override */
+          /*color: #866f45 !important; /* William & Mary Gold, force override */
+	  color: #b79156 !important;
       }
 
       a:hover {
-          color: #775a3c !important; /* Manually specified darker shade of gold for hover, force override */
+          /*color: #775a3c !important; /* Manually specified darker shade of gold for hover, force override */
+	  color: #a4824d !important;
       }
     </style>
 
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ '/assets/images/wm_cypher_png/wm_cypher_black.png' | relative_url }}" alt="WM Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;">
+      <img src="{{ '/assets/images/wm_cypher_png/wm_cypher_gold.png' | relative_url }}" alt="WM Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;">
       {{ site.title | escape }}
     </a>
 
