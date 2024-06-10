@@ -1,5 +1,17 @@
 <header class="site-header" role="banner">
   <div class="wrapper">
+    <!-- Inline CSS to affect all links across the entire webpage -->
+    <style>
+      /* Universal link styling */
+      a {
+          color: #866f45 !important; /* William & Mary Gold, force override */
+      }
+
+      a:hover {
+          color: #775a3c !important; /* Manually specified darker shade of gold for hover, force override */
+      }
+    </style>
+
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
